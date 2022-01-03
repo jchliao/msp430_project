@@ -20,11 +20,11 @@ typedef struct
 
 typedef struct
 {
-    unsigned char num_wav;
-    unsigned char index;
-    unsigned long last_p;
-    char mode;
-    unsigned char vol_reduce;
+    unsigned char num_wav;  //歌曲数
+    unsigned char index;    //歌曲索引
+    unsigned long last_p;   //播放扇区
+    char mode;  //播放模式
+    unsigned char vol_reduce;   //声音控制
 } play_t;
 
 extern Wav_t WavList[8];

@@ -39,6 +39,7 @@ void main(void)
     _EINT();		 //开总中断
     //显示Hello界面
     Hello();
+
     while(1)
     {
         //播放模式程序
@@ -144,7 +145,7 @@ void Time1_A_Init()
 {
     TA1CCR0 = SYSCLK/SAMPLE_FREQ;		//设定TA定时周期
     TA1CTL = TASSEL_2 + MC_1;           //TA0设为增计数模式，时钟=SMCLK
-    TA1CCTL0 = CCIE;
+    TA1CCTL0 |= CCIE;
     _enable_interrupts();                       //开全局总中断，
 }
 /******************************************************************************************************

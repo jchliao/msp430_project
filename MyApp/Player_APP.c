@@ -117,8 +117,6 @@ void PlayWav(){
     _EINT();
 }
 void PauseWav(){
-
-    //TA0CCTL0 &= ~CCIE;
     LCD_ClearSeg(31);
     LCD_DisplaySeg(32);
     if(player.mode=='L'){
@@ -159,18 +157,7 @@ void SubVol(){
     }
 }
 void DisVol(){
-//    LCD_DisplaySeg(_LCD_10C);
-//    LCD_DisplaySeg(_LCD_10D);
-//    LCD_DisplaySeg(_LCD_10E);
-//    LCD_DisplayDigit(6,9);
-//    LCD_ClearSeg(_LCD_9A);
-//    LCD_ClearSeg(_LCD_9F);
-//    LCD_DisplaySeg(_LCD_8E);
-//    LCD_DisplaySeg(_LCD_8F);
     LCD_DisplayDigit(8-player.vol_reduce,7);
-//    HT1621_Reflash_Digit(10);
-//    HT1621_Reflash_Digit(9);
-//    HT1621_Reflash_Digit(8);
     _DINT();
     HT1621_Reflash_Digit(7);
     _EINT();

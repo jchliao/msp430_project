@@ -139,7 +139,6 @@ void SM_Mealy()
             if (Key_Dect == UP_KEY){
                 State = SELECT;
                 SelectWavMode();
-                //PLAYEREINT;
             }
             if((TouchIN_last&BIT0)!=BIT0&&(TouchIN&BIT0)==BIT0){
                 SubVol();
@@ -179,9 +178,9 @@ void SM_Mealy()
             if (Key_Dect == OK_KEY) //路径2
             {
                 State = PLAYING;
-                PlayWav();
                 Display_Progress(&WavList[player.index],&player);
-                //PLAYEREINT;
+                PlayWav();
+                PLAYEREINT;
             }
             if (Key_Dect == BACK_KEY) //路径2
             {
@@ -209,8 +208,6 @@ void SM_Mealy()
             {
                 State = PAUSE;
                 PauseWav();
-                //PLAYERDINT;
-                //Clear_FIFO();
             }
             if (Key_Dect>>4 == OK_KEY) //路径2
             {
@@ -242,7 +239,6 @@ void SM_Mealy()
             {
                 State = PLAYING;
                 PlayWav();
-                //PLAYEREINT;
             }
             if (Key_Dect>>4 == OK_KEY) //路径2
             {
@@ -256,7 +252,6 @@ void SM_Mealy()
                     PinOUT(i,1);
                 }
                 SelectWavMode();
-                //PLAYEREINT;
             }
             break;
         case RECORD:
