@@ -1,0 +1,1234 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divHI.o)
+                              CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o (__mspabi_divu)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divSI.o)
+                              CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o (__mspabi_divul)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(epilogue.o)
+                              CMakeFiles/example.dir/Core/Src/main.c.o (__mspabi_func_epilog_5)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(slli.o)
+                              CMakeFiles/example.dir/Core/Src/main.c.o (__mspabi_slli_8)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srai.o)
+                              /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divHI.o) (__mspabi_srai)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srli.o)
+                              CMakeFiles/example.dir/MyApp/Player_APP.c.o (__mspabi_srli_15)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(cmpsi2.o)
+                              CMakeFiles/example.dir/MyApp/Player_APP.c.o (__ucmpsi2)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_udivdi3.o)
+                              /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divSI.o) (__mspabi_divull)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clzdi2.o)
+                              /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_udivdi3.o) (__clzdi2)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clz.o)
+                              /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clzdi2.o) (__clz_tab)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libmul_none.a(lib2_mul_none.o)
+                              CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o (__mspabi_mpyl)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_bss.o)
+                              CMakeFiles/example.dir/Core/Src/softFIFO.c.o (__crt0_init_bss)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_movedata.o)
+                              CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o (__crt0_movedata)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_main.o)
+                              /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/crt0.o (__crt0_call_main)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memmove.o)
+                              /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_movedata.o) (memmove)
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memset.o)
+                              /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_bss.o) (memset)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/crt0.o
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/crt0.o
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/crt0.o
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/crtbegin_no_eh.o
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/crtbegin_no_eh.o
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/crtbegin_no_eh.o
+ .comment       0x0000000000000000       0x3a /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/crtbegin_no_eh.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/DAC7311.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/DAC7311.c.o
+ .text          0x0000000000000000       0x2c CMakeFiles/example.dir/Core/Src/bsp_Clock.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/bsp_Clock.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/bsp_Clock.c.o
+ .debug_frame   0x0000000000000000       0x24 CMakeFiles/example.dir/Core/Src/bsp_Clock.c.o
+ .debug_info    0x0000000000000000      0x577 CMakeFiles/example.dir/Core/Src/bsp_Clock.c.o
+ .debug_abbrev  0x0000000000000000       0x84 CMakeFiles/example.dir/Core/Src/bsp_Clock.c.o
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/example.dir/Core/Src/bsp_Clock.c.o
+ .debug_line    0x0000000000000000      0x135 CMakeFiles/example.dir/Core/Src/bsp_Clock.c.o
+ .debug_str     0x0000000000000000      0x470 CMakeFiles/example.dir/Core/Src/bsp_Clock.c.o
+ .comment       0x0000000000000000       0x3a CMakeFiles/example.dir/Core/Src/bsp_Clock.c.o
+ .text          0x0000000000000000        0xa CMakeFiles/example.dir/Core/Src/bsp_GPIO.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/bsp_GPIO.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/bsp_GPIO.c.o
+ .debug_frame   0x0000000000000000       0x24 CMakeFiles/example.dir/Core/Src/bsp_GPIO.c.o
+ .debug_info    0x0000000000000000      0x577 CMakeFiles/example.dir/Core/Src/bsp_GPIO.c.o
+ .debug_abbrev  0x0000000000000000       0x84 CMakeFiles/example.dir/Core/Src/bsp_GPIO.c.o
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/example.dir/Core/Src/bsp_GPIO.c.o
+ .debug_line    0x0000000000000000       0xc0 CMakeFiles/example.dir/Core/Src/bsp_GPIO.c.o
+ .debug_str     0x0000000000000000      0x46e CMakeFiles/example.dir/Core/Src/bsp_GPIO.c.o
+ .comment       0x0000000000000000       0x3a CMakeFiles/example.dir/Core/Src/bsp_GPIO.c.o
+ .text          0x0000000000000000       0x18 CMakeFiles/example.dir/Core/Src/bsp_Key.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/bsp_Key.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/bsp_Key.c.o
+ .debug_frame   0x0000000000000000       0x24 CMakeFiles/example.dir/Core/Src/bsp_Key.c.o
+ .debug_info    0x0000000000000000      0x577 CMakeFiles/example.dir/Core/Src/bsp_Key.c.o
+ .debug_abbrev  0x0000000000000000       0x84 CMakeFiles/example.dir/Core/Src/bsp_Key.c.o
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/example.dir/Core/Src/bsp_Key.c.o
+ .debug_line    0x0000000000000000       0xd7 CMakeFiles/example.dir/Core/Src/bsp_Key.c.o
+ .debug_str     0x0000000000000000      0x46c CMakeFiles/example.dir/Core/Src/bsp_Key.c.o
+ .comment       0x0000000000000000       0x3a CMakeFiles/example.dir/Core/Src/bsp_Key.c.o
+ .text          0x0000000000000000       0xdc CMakeFiles/example.dir/Core/Src/bsp_pwm.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/bsp_pwm.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/bsp_pwm.c.o
+ .debug_frame   0x0000000000000000       0x54 CMakeFiles/example.dir/Core/Src/bsp_pwm.c.o
+ .debug_info    0x0000000000000000      0x5ad CMakeFiles/example.dir/Core/Src/bsp_pwm.c.o
+ .debug_abbrev  0x0000000000000000       0x84 CMakeFiles/example.dir/Core/Src/bsp_pwm.c.o
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/example.dir/Core/Src/bsp_pwm.c.o
+ .debug_line    0x0000000000000000      0x30f CMakeFiles/example.dir/Core/Src/bsp_pwm.c.o
+ .debug_str     0x0000000000000000      0x499 CMakeFiles/example.dir/Core/Src/bsp_pwm.c.o
+ .comment       0x0000000000000000       0x3a CMakeFiles/example.dir/Core/Src/bsp_pwm.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/main.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/main.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/msp430_it.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/msp430_it.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/msp430_it.c.o
+ .debug_info    0x0000000000000000      0x55d CMakeFiles/example.dir/Core/Src/msp430_it.c.o
+ .debug_abbrev  0x0000000000000000       0x66 CMakeFiles/example.dir/Core/Src/msp430_it.c.o
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/example.dir/Core/Src/msp430_it.c.o
+ .debug_line    0x0000000000000000       0x58 CMakeFiles/example.dir/Core/Src/msp430_it.c.o
+ .debug_str     0x0000000000000000      0x461 CMakeFiles/example.dir/Core/Src/msp430_it.c.o
+ .comment       0x0000000000000000       0x3a CMakeFiles/example.dir/Core/Src/msp430_it.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Core/Src/softFIFO.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Device/LCD/HT1621.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Device/LCD/HT1621.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Device/LCD/I2C.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Device/LCD/I2C.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Device/LCD/LCD_128.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Device/SD/SD_HardWare.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Device/SD/SD_HardWare.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Device/SD/SD_SPI.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Device/SD/SD_SPI.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Device/SD/SPI.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Device/SD/SPI.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Device/ScopeADC/ComparatorA.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Device/ScopeADC/ComparatorA.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Device/ScopeADC/Slope.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Device/ScopeADC/Timer_A3.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Device/ScopeADC/Timer_A3.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Device/Src/msp430_adc10.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Device/Src/msp430_adc10.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles/example.dir/Device/Src/msp430_gpio.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Device/Src/msp430_gpio.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Device/Src/msp430_gpio.c.o
+ .debug_info    0x0000000000000000      0x525 CMakeFiles/example.dir/Device/Src/msp430_gpio.c.o
+ .debug_abbrev  0x0000000000000000       0x5b CMakeFiles/example.dir/Device/Src/msp430_gpio.c.o
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/example.dir/Device/Src/msp430_gpio.c.o
+ .debug_line    0x0000000000000000       0x58 CMakeFiles/example.dir/Device/Src/msp430_gpio.c.o
+ .debug_str     0x0000000000000000      0x3fc CMakeFiles/example.dir/Device/Src/msp430_gpio.c.o
+ .comment       0x0000000000000000       0x3a CMakeFiles/example.dir/Device/Src/msp430_gpio.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/MyApp/SM_APP.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles/example.dir/MyApp/TouchIN.c.o
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divHI.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divHI.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divHI.o)
+ .text.__divhi3
+                0x0000000000000000       0x30 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divHI.o)
+ .text.__modhi3
+                0x0000000000000000       0x3e /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divHI.o)
+ .text          0x0000000000000000        0x4 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divSI.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divSI.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divSI.o)
+ .text.__umodsi3
+                0x0000000000000000        0xe /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divSI.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(epilogue.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(epilogue.o)
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(slli.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(slli.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(slli.o)
+ .text.__mspabi_slll
+                0x0000000000000000        0xc /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(slli.o)
+ .text.__mspabi_sllll
+                0x0000000000000000       0x1e /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(slli.o)
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srai.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srai.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srai.o)
+ .text.__mspabi_srai_n
+                0x0000000000000000       0x20 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srai.o)
+ .text.__mspabi_srai
+                0x0000000000000000        0xa /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srai.o)
+ .text.__mspabi_sral_n
+                0x0000000000000000       0x3e /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srai.o)
+ .text.__mspabi_srall
+                0x0000000000000000       0x1e /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srai.o)
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srli.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srli.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srli.o)
+ .text.__mspabi_srlll
+                0x0000000000000000       0x20 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srli.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(cmpsi2.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(cmpsi2.o)
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_udivdi3.o)
+ .text.__udivdi3
+                0x0000000000000000      0x404 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_udivdi3.o)
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clzdi2.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clzdi2.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clzdi2.o)
+ .text.__clzdi2
+                0x0000000000000000       0x64 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clzdi2.o)
+ .comment       0x0000000000000000       0x3a /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clzdi2.o)
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clz.o)
+ .rodata.__clz_tab
+                0x0000000000000000      0x100 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clz.o)
+ .comment       0x0000000000000000       0x3a /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clz.o)
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libmul_none.a(lib2_mul_none.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libmul_none.a(lib2_mul_none.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libmul_none.a(lib2_mul_none.o)
+ .text.__muldi3
+                0x0000000000000000       0xe4 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libmul_none.a(lib2_mul_none.o)
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_bss.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_bss.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_bss.o)
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_movedata.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_movedata.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_movedata.o)
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_main.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_main.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_main.o)
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/crtend_no_eh.o
+ .data          0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/crtend_no_eh.o
+ .bss           0x0000000000000000        0x0 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/crtend_no_eh.o
+ .comment       0x0000000000000000       0x3a /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/crtend_no_eh.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SFR              0x0000000000000000 0x0000000000000010
+RAM              0x0000000000000200 0x0000000000000200
+INFOMEM          0x0000000000001000 0x0000000000000100
+INFOA            0x00000000000010c0 0x0000000000000040
+INFOB            0x0000000000001080 0x0000000000000040
+INFOC            0x0000000000001040 0x0000000000000040
+INFOD            0x0000000000001000 0x0000000000000040
+ROM              0x000000000000c000 0x0000000000003fde xr
+BSLSIGNATURE     0x000000000000ffde 0x0000000000000002
+VECT1            0x000000000000ffe0 0x0000000000000002
+VECT2            0x000000000000ffe2 0x0000000000000002
+VECT3            0x000000000000ffe4 0x0000000000000002
+VECT4            0x000000000000ffe6 0x0000000000000002
+VECT5            0x000000000000ffe8 0x0000000000000002
+VECT6            0x000000000000ffea 0x0000000000000002
+VECT7            0x000000000000ffec 0x0000000000000002
+VECT8            0x000000000000ffee 0x0000000000000002
+VECT9            0x000000000000fff0 0x0000000000000002
+VECT10           0x000000000000fff2 0x0000000000000002
+VECT11           0x000000000000fff4 0x0000000000000002
+VECT12           0x000000000000fff6 0x0000000000000002
+VECT13           0x000000000000fff8 0x0000000000000002
+VECT14           0x000000000000fffa 0x0000000000000002
+VECT15           0x000000000000fffc 0x0000000000000002
+RESETVEC         0x000000000000fffe 0x0000000000000002
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/crt0.o
+LOAD /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/crtbegin_no_eh.o
+LOAD CMakeFiles/example.dir/Core/Src/DAC7311.c.o
+LOAD CMakeFiles/example.dir/Core/Src/bsp_Clock.c.o
+LOAD CMakeFiles/example.dir/Core/Src/bsp_GPIO.c.o
+LOAD CMakeFiles/example.dir/Core/Src/bsp_Key.c.o
+LOAD CMakeFiles/example.dir/Core/Src/bsp_pwm.c.o
+LOAD CMakeFiles/example.dir/Core/Src/main.c.o
+LOAD CMakeFiles/example.dir/Core/Src/msp430_it.c.o
+LOAD CMakeFiles/example.dir/Core/Src/softFIFO.c.o
+LOAD CMakeFiles/example.dir/Device/LCD/HT1621.c.o
+LOAD CMakeFiles/example.dir/Device/LCD/I2C.c.o
+LOAD CMakeFiles/example.dir/Device/LCD/LCD_128.c.o
+LOAD CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o
+LOAD CMakeFiles/example.dir/Device/SD/SD_HardWare.c.o
+LOAD CMakeFiles/example.dir/Device/SD/SD_SPI.c.o
+LOAD CMakeFiles/example.dir/Device/SD/SPI.c.o
+LOAD CMakeFiles/example.dir/Device/ScopeADC/ComparatorA.c.o
+LOAD CMakeFiles/example.dir/Device/ScopeADC/Slope.c.o
+LOAD CMakeFiles/example.dir/Device/ScopeADC/Timer_A3.c.o
+LOAD CMakeFiles/example.dir/Device/Src/msp430_adc10.c.o
+LOAD CMakeFiles/example.dir/Device/Src/msp430_gpio.c.o
+LOAD CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o
+LOAD CMakeFiles/example.dir/MyApp/Player_APP.c.o
+LOAD CMakeFiles/example.dir/MyApp/Record_APP.c.o
+LOAD CMakeFiles/example.dir/MyApp/SM_APP.c.o
+LOAD CMakeFiles/example.dir/MyApp/TouchIN.c.o
+LOAD /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a
+START GROUP
+LOAD /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libmul_none.a
+LOAD /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a
+LOAD /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a
+LOAD /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a
+LOAD /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libnosys.a
+END GROUP
+
+.bslsignature
+
+__interrupt_vector_1
+ *(__interrupt_vector_1)
+ *(__interrupt_vector_trapint)
+
+__interrupt_vector_2
+ *(__interrupt_vector_2)
+
+__interrupt_vector_3
+ *(__interrupt_vector_3)
+ *(__interrupt_vector_port1)
+
+__interrupt_vector_4
+ *(__interrupt_vector_4)
+ *(__interrupt_vector_port2)
+
+__interrupt_vector_5
+ *(__interrupt_vector_5)
+
+__interrupt_vector_6
+                0x000000000000ffea        0x2
+ *(__interrupt_vector_6)
+ __interrupt_vector_6
+                0x000000000000ffea        0x2 CMakeFiles/example.dir/MyApp/Record_APP.c.o
+ *(__interrupt_vector_adc10)
+
+__interrupt_vector_7
+ *(__interrupt_vector_7)
+ *(__interrupt_vector_usciab0tx)
+
+__interrupt_vector_8
+ *(__interrupt_vector_8)
+ *(__interrupt_vector_usciab0rx)
+
+__interrupt_vector_9
+                0x000000000000fff0        0x2
+ *(__interrupt_vector_9)
+ __interrupt_vector_9
+                0x000000000000fff0        0x2 CMakeFiles/example.dir/Device/ScopeADC/Timer_A3.c.o
+ *(__interrupt_vector_timer0_a1)
+
+__interrupt_vector_10
+ *(__interrupt_vector_10)
+ *(__interrupt_vector_timer0_a0)
+
+__interrupt_vector_11
+                0x000000000000fff4        0x2
+ *(__interrupt_vector_11)
+ __interrupt_vector_11
+                0x000000000000fff4        0x2 CMakeFiles/example.dir/Core/Src/main.c.o
+ *(__interrupt_vector_wdt)
+
+__interrupt_vector_12
+ *(__interrupt_vector_12)
+ *(__interrupt_vector_comparatora)
+
+__interrupt_vector_13
+ *(__interrupt_vector_13)
+ *(__interrupt_vector_timer1_a1)
+
+__interrupt_vector_14
+                0x000000000000fffa        0x2
+ *(__interrupt_vector_14)
+ __interrupt_vector_14
+                0x000000000000fffa        0x2 CMakeFiles/example.dir/Core/Src/main.c.o
+ *(__interrupt_vector_timer1_a0)
+
+__interrupt_vector_15
+ *(__interrupt_vector_15)
+ *(__interrupt_vector_nmi)
+
+__reset_vector  0x000000000000fffe        0x2
+ *(__interrupt_vector_16)
+ *(__interrupt_vector_reset)
+ *(.resetvec)
+ .resetvec      0x000000000000fffe        0x2 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/crt0.o
+
+.rodata         0x000000000000c000        0x4
+                0x000000000000c000                . = ALIGN (0x2)
+ *(.plt)
+ *(.rodata .rodata.* .gnu.linkonce.r.* .const .const:*)
+ .rodata        0x000000000000c000        0x4 CMakeFiles/example.dir/MyApp/TouchIN.c.o
+                0x000000000000c000                FREQ_THRESHOLD
+ *(.rodata1)
+ *(.gcc_except_table)
+ *(.gcc_except_table.*)
+
+.rodata2        0x000000000000c004       0x6e
+                0x000000000000c004                . = ALIGN (0x2)
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+                0x000000000000c004                . = ALIGN (0x2)
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = .)
+                0x000000000000c004                . = ALIGN (0x2)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(.fini_array)
+ *(SORT_BY_NAME(.fini_array.*))
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x000000000000c004                . = ALIGN (0x2)
+ *(.eh_frame_hdr)
+ *(.eh_frame)
+ .eh_frame      0x000000000000c004       0x6e /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_udivdi3.o)
+ *crtbegin*.o(.ctors)
+ *(EXCLUDE_FILE(*crtend*.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin*.o(.dtors)
+ *(EXCLUDE_FILE(*crtend*.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.text           0x000000000000c074     0x324c
+                0x000000000000c074                . = ALIGN (0x2)
+                0x000000000000c074                PROVIDE (_start = .)
+ *(SORT_BY_NAME(.crt_*))
+ .crt_0000start
+                0x000000000000c074        0x4 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/crt0.o
+                0x000000000000c074                __crt0_start
+ .crt_0100init_bss
+                0x000000000000c078        0xe /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_bss.o)
+                0x000000000000c078                __crt0_init_bss
+ .crt_0300movedata
+                0x000000000000c086       0x14 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_movedata.o)
+                0x000000000000c086                __crt0_movedata
+ .crt_0800call_main
+                0x000000000000c09a        0x6 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_main.o)
+                0x000000000000c09a                __crt0_call_main
+ *(.lowtext .text .stub .text.* .gnu.linkonce.t.* .text:*)
+ .text          0x000000000000c0a0       0x60 CMakeFiles/example.dir/Core/Src/DAC7311.c.o
+                0x000000000000c0a0                DAC7311_Init
+                0x000000000000c0b4                write2DAC7311
+ .text          0x000000000000c100      0x248 CMakeFiles/example.dir/Core/Src/main.c.o
+                0x000000000000c100                WDT_init
+                0x000000000000c10c                WDT_ISR
+                0x000000000000c128                SD_Read_InFIFO
+                0x000000000000c1fe                Time1_A_Init
+                0x000000000000c214                main
+                0x000000000000c2ec                Timer1_A0
+ .text          0x000000000000c348       0x70 CMakeFiles/example.dir/Core/Src/softFIFO.c.o
+                0x000000000000c348                Write_FIFO
+                0x000000000000c37c                Read_FIFO
+                0x000000000000c3aa                Clear_FIFO
+ .text          0x000000000000c3b8      0x26c CMakeFiles/example.dir/Device/LCD/HT1621.c.o
+                0x000000000000c3b8                HT1621_SendBit
+                0x000000000000c3ee                HT1621_init
+                0x000000000000c4fe                HT1621_Reflash
+                0x000000000000c58a                HT1621_Reflash_Digit
+ .text          0x000000000000c624      0x1b0 CMakeFiles/example.dir/Device/LCD/I2C.c.o
+                0x000000000000c624                I2C_Tx_Init
+                0x000000000000c626                I2C_Rx_Init
+                0x000000000000c628                Start
+                0x000000000000c64e                Stop
+                0x000000000000c674                I2C_Init
+                0x000000000000c692                Send_Char
+                0x000000000000c6f4                Master_Ack
+                0x000000000000c71a                Get_Char
+                0x000000000000c768                I2C_TxFrame
+                0x000000000000c79c                I2C_RxFrame
+ .text          0x000000000000c7d4      0x97c CMakeFiles/example.dir/Device/LCD/LCD_128.c.o
+                0x000000000000c7d4                LCD_Clear
+                0x000000000000c7f0                LCD_DisplaySeg
+                0x000000000000c81c                LCD_Init
+                0x000000000000c83e                LCD_ClearSeg
+                0x000000000000c86a                LCD_DisplayDigit
+                0x000000000000cf74                LCD_DisplayNum
+                0x000000000000d042                Calculate_NumBuff
+ .text          0x000000000000d150      0x1b8 CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o
+                0x000000000000d150                TCA6416_Tx_Frame
+                0x000000000000d168                TCA6416_Rx_Frame
+                0x000000000000d180                TCA6416A_Init
+                0x000000000000d1f6                PinOUT
+                0x000000000000d2a6                PinOUTx
+                0x000000000000d2bc                PinIN
+ .text          0x000000000000d308       0x7c CMakeFiles/example.dir/Device/SD/SD_HardWare.c.o
+                0x000000000000d308                SD_High_Speed
+                0x000000000000d30e                SD_Low_Speed
+                0x000000000000d314                SD_CS_High
+                0x000000000000d31a                SD_CS_Low
+                0x000000000000d320                SD_Write_Byte
+                0x000000000000d338                SD_Write_Frame
+                0x000000000000d350                SD_Read_Frame
+                0x000000000000d368                SD_Read_Byte
+ .text          0x000000000000d384      0x316 CMakeFiles/example.dir/Device/SD/SD_SPI.c.o
+                0x000000000000d384                Write_Command_SD
+                0x000000000000d3be                SD_Write_Sector
+                0x000000000000d4be                SD_Read_Sector
+                0x000000000000d588                SD_Reset
+                0x000000000000d5dc                SD_Set_SPI
+                0x000000000000d676                SD_Init
+ .text          0x000000000000d69a       0xf0 CMakeFiles/example.dir/Device/SD/SPI.c.o
+                0x000000000000d69a                SPI_init
+                0x000000000000d6f8                SPI_CS_High
+                0x000000000000d700                SPI_HighSpeed
+                0x000000000000d716                SPI_LowSpeed
+                0x000000000000d72e                SPI_CS_Low
+                0x000000000000d736                SPI_RxFrame
+                0x000000000000d764                SPI_TxFrame
+ .text          0x000000000000d78a       0x14 CMakeFiles/example.dir/Device/ScopeADC/ComparatorA.c.o
+                0x000000000000d78a                Comparator_Aplus_init
+ .text          0x000000000000d79e       0x6c CMakeFiles/example.dir/Device/ScopeADC/Slope.c.o
+                0x000000000000d79e                Slope_Port_Charge
+                0x000000000000d7b0                Slope_Measure_Init
+                0x000000000000d7be                Slope_Measure_REF
+                0x000000000000d7d4                Slope_Measure_SENS
+                0x000000000000d7ea                Slope_TA_CCI1B
+ .text          0x000000000000d80a       0x32 CMakeFiles/example.dir/Device/ScopeADC/Timer_A3.c.o
+                0x000000000000d80a                Timer0_A3_init
+                0x000000000000d818                TIMER0_A1_ISR_HOOK
+ .text          0x000000000000d83c       0x86 CMakeFiles/example.dir/Device/Src/msp430_adc10.c.o
+                0x000000000000d83c                ADC10_init
+                0x000000000000d860                ADC10_DTC_Init
+ *fill*         0x000000000000d8c2        0x2 
+ .text          0x000000000000d8c4      0xb4e CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o
+                0x000000000000d8c4                TA0_PWM_Init
+                0x000000000000dc00                TA0_PWM_SetPeriod
+                0x000000000000dc08                TA0_PWM_SetPermill
+                0x000000000000dd92                TA1_PWM_Init
+                0x000000000000e0c8                TA1_PWM_SetPeriod
+                0x000000000000e0d0                TA1_PWM_SetPermill
+                0x000000000000e240                TA0_CallBack_Init
+                0x000000000000e328                TA1_CallBack_Init
+ *fill*         0x000000000000e412        0x2 
+ .text          0x000000000000e414      0x4e8 CMakeFiles/example.dir/MyApp/Player_APP.c.o
+                0x000000000000e414                SelectWavMode
+                0x000000000000e48a                NextWav
+                0x000000000000e4d4                PreWav
+                0x000000000000e55c                PlayWav
+                0x000000000000e5d2                PauseWav
+                0x000000000000e62e                ChangPlayMode
+                0x000000000000e646                AddVol
+                0x000000000000e658                SubVol
+                0x000000000000e66a                DisVol
+                0x000000000000e688                Hello
+                0x000000000000e780                Display_Progress
+ .text          0x000000000000e8fc      0x140 CMakeFiles/example.dir/MyApp/Record_APP.c.o
+                0x000000000000e8fc                RecInit
+                0x000000000000e940                PauseRec
+                0x000000000000e946                StartRec
+                0x000000000000e94e                StopRec
+                0x000000000000e960                ResumeRec
+                0x000000000000e964                RecordMode
+                0x000000000000e9e0                ADC10_ISR_HOOK
+ .text          0x000000000000ea3c      0x3d2 CMakeFiles/example.dir/MyApp/SM_APP.c.o
+                0x000000000000ea3c                LongClick_Dect
+                0x000000000000ea58                I2C_IODect
+                0x000000000000eba0                SM_Mealy
+ .text          0x000000000000ee0e      0x130 CMakeFiles/example.dir/MyApp/TouchIN.c.o
+                0x000000000000ee0e                Key_Measure_Freq
+                0x000000000000ee6c                Key_FIFO
+                0x000000000000eeae                Key_Judge
+                0x000000000000ef30                TouchIN_Dect
+ .text.udivmodhi4
+                0x000000000000ef3e       0x3c /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divHI.o)
+                0x000000000000ef3e                udivmodhi4
+ .text.__udivhi3
+                0x000000000000ef7a        0x8 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divHI.o)
+                0x000000000000ef7a                __mspabi_divu
+ .text.__umodhi3
+                0x000000000000ef82        0x8 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divHI.o)
+                0x000000000000ef82                __mspabi_remu
+ .text.udivmodsi4
+                0x000000000000ef8a       0x86 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divSI.o)
+                0x000000000000ef8a                udivmodsi4
+ .text.__divsi3
+                0x000000000000f010       0x4a /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divSI.o)
+                0x000000000000f010                __mspabi_divli
+ .text.__modsi3
+                0x000000000000f05a       0x60 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divSI.o)
+                0x000000000000f05a                __mspabi_remli
+ .text.__udivsi3
+                0x000000000000f0ba        0xe /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divSI.o)
+                0x000000000000f0ba                __mspabi_divul
+                0x000000000000f0ba                __mspabi_divlu
+ .text          0x000000000000f0c8       0x10 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(epilogue.o)
+                0x000000000000f0c8                __mspabi_func_epilog_7
+                0x000000000000f0ca                __mspabi_func_epilog_6
+                0x000000000000f0cc                __mspabi_func_epilog_5
+                0x000000000000f0ce                __mspabi_func_epilog_4
+                0x000000000000f0d0                __mspabi_func_epilog_3
+                0x000000000000f0d2                __mspabi_func_epilog_2
+                0x000000000000f0d4                __mspabi_func_epilog_1
+ .text.__mspabi_slli_n
+                0x000000000000f0d8       0x20 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(slli.o)
+                0x000000000000f0d8                __mspabi_slli_15
+                0x000000000000f0da                __mspabi_slli_14
+                0x000000000000f0dc                __mspabi_slli_13
+                0x000000000000f0de                __mspabi_slli_12
+                0x000000000000f0e0                __mspabi_slli_11
+                0x000000000000f0e2                __mspabi_slli_10
+                0x000000000000f0e4                __mspabi_slli_9
+                0x000000000000f0e6                __mspabi_slli_8
+                0x000000000000f0e8                __mspabi_slli_7
+                0x000000000000f0ea                __mspabi_slli_6
+                0x000000000000f0ec                __mspabi_slli_5
+                0x000000000000f0ee                __mspabi_slli_4
+                0x000000000000f0f0                __mspabi_slli_3
+                0x000000000000f0f2                __mspabi_slli_2
+                0x000000000000f0f4                __mspabi_slli_1
+ .text.__mspabi_slli
+                0x000000000000f0f8        0xa /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(slli.o)
+                0x000000000000f0fc                __mspabi_slli
+ .text.__mspabi_slll_n
+                0x000000000000f102       0x3e /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(slli.o)
+                0x000000000000f102                __mspabi_slll_15
+                0x000000000000f106                __mspabi_slll_14
+                0x000000000000f10a                __mspabi_slll_13
+                0x000000000000f10e                __mspabi_slll_12
+                0x000000000000f112                __mspabi_slll_11
+                0x000000000000f116                __mspabi_slll_10
+                0x000000000000f11a                __mspabi_slll_9
+                0x000000000000f11e                __mspabi_slll_8
+                0x000000000000f122                __mspabi_slll_7
+                0x000000000000f126                __mspabi_slll_6
+                0x000000000000f12a                __mspabi_slll_5
+                0x000000000000f12e                __mspabi_slll_4
+                0x000000000000f132                __mspabi_slll_3
+                0x000000000000f136                __mspabi_slll_2
+                0x000000000000f13a                __mspabi_slll_1
+ .text.__mspabi_sral
+                0x000000000000f140        0xc /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srai.o)
+                0x000000000000f146                __mspabi_sral
+ .text.__mspabi_srli_n
+                0x000000000000f14c       0x3e /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srli.o)
+                0x000000000000f14c                __mspabi_srli_15
+                0x000000000000f150                __mspabi_srli_14
+                0x000000000000f154                __mspabi_srli_13
+                0x000000000000f158                __mspabi_srli_12
+                0x000000000000f15c                __mspabi_srli_11
+                0x000000000000f160                __mspabi_srli_10
+                0x000000000000f164                __mspabi_srli_9
+                0x000000000000f168                __mspabi_srli_8
+                0x000000000000f16c                __mspabi_srli_7
+                0x000000000000f170                __mspabi_srli_6
+                0x000000000000f174                __mspabi_srli_5
+                0x000000000000f178                __mspabi_srli_4
+                0x000000000000f17c                __mspabi_srli_3
+                0x000000000000f180                __mspabi_srli_2
+                0x000000000000f184                __mspabi_srli_1
+ .text.__mspabi_srli
+                0x000000000000f18a        0xc /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srli.o)
+                0x000000000000f190                __mspabi_srli
+ .text.__mspabi_srll_n
+                0x000000000000f196       0x5c /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srli.o)
+                0x000000000000f196                __mspabi_srll_15
+                0x000000000000f19c                __mspabi_srll_14
+                0x000000000000f1a2                __mspabi_srll_13
+                0x000000000000f1a8                __mspabi_srll_12
+                0x000000000000f1ae                __mspabi_srll_11
+                0x000000000000f1b4                __mspabi_srll_10
+                0x000000000000f1ba                __mspabi_srll_9
+                0x000000000000f1c0                __mspabi_srll_8
+                0x000000000000f1c6                __mspabi_srll_7
+                0x000000000000f1cc                __mspabi_srll_6
+                0x000000000000f1d2                __mspabi_srll_5
+                0x000000000000f1d8                __mspabi_srll_4
+                0x000000000000f1de                __mspabi_srll_3
+                0x000000000000f1e4                __mspabi_srll_2
+                0x000000000000f1ea                __mspabi_srll_1
+ .text.__mspabi_srll
+                0x000000000000f1f2        0xe /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srli.o)
+                0x000000000000f1fa                __mspabi_srll
+ .text          0x000000000000f200       0x28 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(cmpsi2.o)
+                0x000000000000f200                __cmpsi2
+                0x000000000000f218                __ucmpsi2
+ .text.__mulsi3
+                0x000000000000f228       0x4a /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libmul_none.a(lib2_mul_none.o)
+                0x000000000000f228                __mspabi_mpyl
+ .text.memmove  0x000000000000f272       0x3c /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memmove.o)
+                0x000000000000f272                memmove
+ .text.memset   0x000000000000f2ae       0x12 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memset.o)
+                0x000000000000f2ae                memset
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.interp .hash .dynsym .dynstr .gnu.version*)
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+                0x000000000000f2c0                . = ALIGN (0x2)
+ *(.init)
+ *(.fini)
+ *(.tm_clone_table)
+
+.data           0x0000000000000200       0x6c load address 0x000000000000f2c0
+                0x0000000000000200                . = ALIGN (0x2)
+                0x0000000000000200                PROVIDE (__datastart = .)
+ *(.jcr)
+ *(.data.rel.ro.local)
+ *(.data.rel.ro*)
+ *(.dynamic)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000000200        0x2 CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o
+ .data          0x0000000000000202       0x68 CMakeFiles/example.dir/MyApp/Player_APP.c.o
+                0x0000000000000202                player
+                0x000000000000020a                WavList
+ .data          0x000000000000026a        0x2 CMakeFiles/example.dir/MyApp/Record_APP.c.o
+ *(.gnu.linkonce.d.*personality*)
+ *(.data1)
+ *(.got.plt)
+ *(.got)
+                0x000000000000026c                . = ALIGN (0x2)
+ *(.sdata .sdata.* .gnu.linkonce.s.* D_2 D_1)
+                0x000000000000026c                . = ALIGN (0x2)
+                0x000000000000026c                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                [!provide]                        PROVIDE (__dataend = .)
+                0x000000000000f2c0                PROVIDE (__romdatastart = LOADADDR (.data))
+                0x000000000000006c                PROVIDE (__romdatacopysize = SIZEOF (.data))
+
+.bss            0x000000000000026c      0x10a load address 0x000000000000f32c
+                0x000000000000026c                . = ALIGN (0x2)
+                0x000000000000026c                PROVIDE (__bssstart = .)
+ *(.dynbss)
+ *(.sbss .sbss.*)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000000026c       0x38 CMakeFiles/example.dir/Core/Src/softFIFO.c.o
+                0x000000000000026c                FIFO_Count
+                0x000000000000026e                FIFOBuff
+ .bss           0x00000000000002a4       0x10 CMakeFiles/example.dir/Device/LCD/LCD_128.c.o
+                0x00000000000002a4                LCD_Buffer
+ .bss           0x00000000000002b4        0x2 CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o
+                0x00000000000002b4                TCA6416A_InputBuffer
+ .bss           0x00000000000002b6        0x6 CMakeFiles/example.dir/Device/ScopeADC/Slope.c.o
+                0x00000000000002b6                R_SENS
+                0x00000000000002b8                R_REF
+                0x00000000000002ba                Slope_Measure_Flag
+ .bss           0x00000000000002bc        0x1 CMakeFiles/example.dir/MyApp/Player_APP.c.o
+ *fill*         0x00000000000002bd        0x1 
+ .bss           0x00000000000002be       0xa4 CMakeFiles/example.dir/MyApp/Record_APP.c.o
+                0x00000000000002be                rec_data
+                0x000000000000035e                pRec
+ .bss           0x0000000000000362        0x5 CMakeFiles/example.dir/MyApp/SM_APP.c.o
+                0x0000000000000362                WDT_Counter
+                0x0000000000000363                State
+ *fill*         0x0000000000000367        0x1 
+ .bss           0x0000000000000368        0xe CMakeFiles/example.dir/MyApp/TouchIN.c.o
+                0x0000000000000368                TouchIN
+                0x0000000000000376                . = ALIGN (0x2)
+ *(COMMON)
+                [!provide]                        PROVIDE (__bssend = .)
+                0x000000000000010a                PROVIDE (__bsssize = SIZEOF (.bss))
+
+.noinit         0x0000000000000376        0x0 load address 0x000000000000f32c
+                0x0000000000000376                . = ALIGN (0x2)
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit)
+                0x0000000000000376                . = ALIGN (0x2)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x0000000000000376                end = .
+
+.heap           0x0000000000000376        0x4 load address 0x000000000000f32c
+                0x0000000000000376                . = ALIGN (0x2)
+                0x0000000000000376                __heap_start__ = .
+                0x0000000000000376                _end = __heap_start__
+                [!provide]                        PROVIDE (end = .)
+ *(.heap)
+                0x0000000000000376                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x0000000000000376        0x4 LONG 0x0
+                0x000000000000037a                __heap_end__ = .
+                0x000000000000037a                __HeapLimit = __heap_end__
+
+.stack          0x0000000000000400        0x0
+                0x0000000000000400                PROVIDE (__stack = .)
+ *(.stack)
+
+.infoA
+
+.infoB
+
+.infoC
+
+.infoD
+
+.MSP430.attributes
+                0x0000000000000000       0x17
+ *(.MSP430.attributes)
+ .MSP430.attributes
+                0x0000000000000000       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/crt0.o
+ .MSP430.attributes
+                0x0000000000000017       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/crtbegin_no_eh.o
+ .MSP430.attributes
+                0x000000000000002e       0x17 CMakeFiles/example.dir/Core/Src/DAC7311.c.o
+ .MSP430.attributes
+                0x0000000000000045       0x17 CMakeFiles/example.dir/Core/Src/bsp_Clock.c.o
+ .MSP430.attributes
+                0x000000000000005c       0x17 CMakeFiles/example.dir/Core/Src/bsp_GPIO.c.o
+ .MSP430.attributes
+                0x0000000000000073       0x17 CMakeFiles/example.dir/Core/Src/bsp_Key.c.o
+ .MSP430.attributes
+                0x000000000000008a       0x17 CMakeFiles/example.dir/Core/Src/bsp_pwm.c.o
+ .MSP430.attributes
+                0x00000000000000a1       0x17 CMakeFiles/example.dir/Core/Src/main.c.o
+ .MSP430.attributes
+                0x00000000000000b8       0x17 CMakeFiles/example.dir/Core/Src/msp430_it.c.o
+ .MSP430.attributes
+                0x00000000000000cf       0x17 CMakeFiles/example.dir/Core/Src/softFIFO.c.o
+ .MSP430.attributes
+                0x00000000000000e6       0x17 CMakeFiles/example.dir/Device/LCD/HT1621.c.o
+ .MSP430.attributes
+                0x00000000000000fd       0x17 CMakeFiles/example.dir/Device/LCD/I2C.c.o
+ .MSP430.attributes
+                0x0000000000000114       0x17 CMakeFiles/example.dir/Device/LCD/LCD_128.c.o
+ .MSP430.attributes
+                0x000000000000012b       0x17 CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o
+ .MSP430.attributes
+                0x0000000000000142       0x17 CMakeFiles/example.dir/Device/SD/SD_HardWare.c.o
+ .MSP430.attributes
+                0x0000000000000159       0x17 CMakeFiles/example.dir/Device/SD/SD_SPI.c.o
+ .MSP430.attributes
+                0x0000000000000170       0x17 CMakeFiles/example.dir/Device/SD/SPI.c.o
+ .MSP430.attributes
+                0x0000000000000187       0x17 CMakeFiles/example.dir/Device/ScopeADC/ComparatorA.c.o
+ .MSP430.attributes
+                0x000000000000019e       0x17 CMakeFiles/example.dir/Device/ScopeADC/Slope.c.o
+ .MSP430.attributes
+                0x00000000000001b5       0x17 CMakeFiles/example.dir/Device/ScopeADC/Timer_A3.c.o
+ .MSP430.attributes
+                0x00000000000001cc       0x17 CMakeFiles/example.dir/Device/Src/msp430_adc10.c.o
+ .MSP430.attributes
+                0x00000000000001e3       0x17 CMakeFiles/example.dir/Device/Src/msp430_gpio.c.o
+ .MSP430.attributes
+                0x00000000000001fa       0x17 CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o
+ .MSP430.attributes
+                0x0000000000000211       0x17 CMakeFiles/example.dir/MyApp/Player_APP.c.o
+ .MSP430.attributes
+                0x0000000000000228       0x17 CMakeFiles/example.dir/MyApp/Record_APP.c.o
+ .MSP430.attributes
+                0x000000000000023f       0x17 CMakeFiles/example.dir/MyApp/SM_APP.c.o
+ .MSP430.attributes
+                0x0000000000000256       0x17 CMakeFiles/example.dir/MyApp/TouchIN.c.o
+ .MSP430.attributes
+                0x000000000000026d       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divHI.o)
+ .MSP430.attributes
+                0x0000000000000284       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divSI.o)
+ .MSP430.attributes
+                0x000000000000029b       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(epilogue.o)
+ .MSP430.attributes
+                0x00000000000002b2       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(slli.o)
+ .MSP430.attributes
+                0x00000000000002c9       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srai.o)
+ .MSP430.attributes
+                0x00000000000002e0       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(srli.o)
+ .MSP430.attributes
+                0x00000000000002f7       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(cmpsi2.o)
+ .MSP430.attributes
+                0x000000000000030e       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_udivdi3.o)
+ .MSP430.attributes
+                0x0000000000000325       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clzdi2.o)
+ .MSP430.attributes
+                0x000000000000033c       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_clz.o)
+ .MSP430.attributes
+                0x0000000000000353       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libmul_none.a(lib2_mul_none.o)
+ .MSP430.attributes
+                0x000000000000036a       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_bss.o)
+ .MSP430.attributes
+                0x0000000000000381       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_movedata.o)
+ .MSP430.attributes
+                0x0000000000000398       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libcrt.a(crt_main.o)
+ .MSP430.attributes
+                0x00000000000003af       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memmove.o)
+ .MSP430.attributes
+                0x00000000000003c6       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memset.o)
+ .MSP430.attributes
+                0x00000000000003dd       0x17 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/crtend_no_eh.o
+ *(.gnu.attributes)
+ *(__TI_build_attributes)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x39
+ *(.comment)
+ .comment       0x0000000000000000       0x39 CMakeFiles/example.dir/Core/Src/DAC7311.c.o
+                                         0x3a (size before relaxing)
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Core/Src/main.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Core/Src/softFIFO.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Device/LCD/HT1621.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Device/LCD/I2C.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Device/LCD/LCD_128.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Device/SD/SD_HardWare.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Device/SD/SD_SPI.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Device/SD/SPI.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Device/ScopeADC/ComparatorA.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Device/ScopeADC/Slope.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Device/ScopeADC/Timer_A3.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Device/Src/msp430_adc10.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/MyApp/Player_APP.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/MyApp/Record_APP.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/MyApp/SM_APP.c.o
+ .comment       0x0000000000000039       0x3a CMakeFiles/example.dir/MyApp/TouchIN.c.o
+ .comment       0x0000000000000039       0x3a /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divHI.o)
+ .comment       0x0000000000000039       0x3a /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(lib2divSI.o)
+ .comment       0x0000000000000039       0x3a /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a(_udivdi3.o)
+ .comment       0x0000000000000039       0x3a /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libmul_none.a(lib2_mul_none.o)
+ .comment       0x0000000000000039       0x3a /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memmove.o)
+ .comment       0x0000000000000039       0x3a /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/430/libc.a(lib_a-memset.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x260
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/example.dir/Core/Src/DAC7311.c.o
+ .debug_aranges
+                0x0000000000000020       0x20 CMakeFiles/example.dir/Core/Src/main.c.o
+ .debug_aranges
+                0x0000000000000040       0x20 CMakeFiles/example.dir/Core/Src/softFIFO.c.o
+ .debug_aranges
+                0x0000000000000060       0x20 CMakeFiles/example.dir/Device/LCD/HT1621.c.o
+ .debug_aranges
+                0x0000000000000080       0x20 CMakeFiles/example.dir/Device/LCD/I2C.c.o
+ .debug_aranges
+                0x00000000000000a0       0x20 CMakeFiles/example.dir/Device/LCD/LCD_128.c.o
+ .debug_aranges
+                0x00000000000000c0       0x20 CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o
+ .debug_aranges
+                0x00000000000000e0       0x20 CMakeFiles/example.dir/Device/SD/SD_HardWare.c.o
+ .debug_aranges
+                0x0000000000000100       0x20 CMakeFiles/example.dir/Device/SD/SD_SPI.c.o
+ .debug_aranges
+                0x0000000000000120       0x20 CMakeFiles/example.dir/Device/SD/SPI.c.o
+ .debug_aranges
+                0x0000000000000140       0x20 CMakeFiles/example.dir/Device/ScopeADC/ComparatorA.c.o
+ .debug_aranges
+                0x0000000000000160       0x20 CMakeFiles/example.dir/Device/ScopeADC/Slope.c.o
+ .debug_aranges
+                0x0000000000000180       0x20 CMakeFiles/example.dir/Device/ScopeADC/Timer_A3.c.o
+ .debug_aranges
+                0x00000000000001a0       0x20 CMakeFiles/example.dir/Device/Src/msp430_adc10.c.o
+ .debug_aranges
+                0x00000000000001c0       0x20 CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o
+ .debug_aranges
+                0x00000000000001e0       0x20 CMakeFiles/example.dir/MyApp/Player_APP.c.o
+ .debug_aranges
+                0x0000000000000200       0x20 CMakeFiles/example.dir/MyApp/Record_APP.c.o
+ .debug_aranges
+                0x0000000000000220       0x20 CMakeFiles/example.dir/MyApp/SM_APP.c.o
+ .debug_aranges
+                0x0000000000000240       0x20 CMakeFiles/example.dir/MyApp/TouchIN.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x9b67
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x582 CMakeFiles/example.dir/Core/Src/DAC7311.c.o
+ .debug_info    0x0000000000000582     0x1219 CMakeFiles/example.dir/Core/Src/main.c.o
+ .debug_info    0x000000000000179b      0x5f5 CMakeFiles/example.dir/Core/Src/softFIFO.c.o
+ .debug_info    0x0000000000001d90      0x900 CMakeFiles/example.dir/Device/LCD/HT1621.c.o
+ .debug_info    0x0000000000002690      0x72c CMakeFiles/example.dir/Device/LCD/I2C.c.o
+ .debug_info    0x0000000000002dbc      0x770 CMakeFiles/example.dir/Device/LCD/LCD_128.c.o
+ .debug_info    0x000000000000352c      0x887 CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o
+ .debug_info    0x0000000000003db3      0x750 CMakeFiles/example.dir/Device/SD/SD_HardWare.c.o
+ .debug_info    0x0000000000004503      0xa35 CMakeFiles/example.dir/Device/SD/SD_SPI.c.o
+ .debug_info    0x0000000000004f38      0x656 CMakeFiles/example.dir/Device/SD/SPI.c.o
+ .debug_info    0x000000000000558e      0x53f CMakeFiles/example.dir/Device/ScopeADC/ComparatorA.c.o
+ .debug_info    0x0000000000005acd      0x5f5 CMakeFiles/example.dir/Device/ScopeADC/Slope.c.o
+ .debug_info    0x00000000000060c2      0x58f CMakeFiles/example.dir/Device/ScopeADC/Timer_A3.c.o
+ .debug_info    0x0000000000006651      0x5e4 CMakeFiles/example.dir/Device/Src/msp430_adc10.c.o
+ .debug_info    0x0000000000006c35      0x7a6 CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o
+ .debug_info    0x00000000000073db      0xd42 CMakeFiles/example.dir/MyApp/Player_APP.c.o
+ .debug_info    0x000000000000811d      0xa2f CMakeFiles/example.dir/MyApp/Record_APP.c.o
+ .debug_info    0x0000000000008b4c      0x9ec CMakeFiles/example.dir/MyApp/SM_APP.c.o
+ .debug_info    0x0000000000009538      0x62f CMakeFiles/example.dir/MyApp/TouchIN.c.o
+
+.debug_abbrev   0x0000000000000000     0x181b
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0xc8 CMakeFiles/example.dir/Core/Src/DAC7311.c.o
+ .debug_abbrev  0x00000000000000c8      0x269 CMakeFiles/example.dir/Core/Src/main.c.o
+ .debug_abbrev  0x0000000000000331      0x101 CMakeFiles/example.dir/Core/Src/softFIFO.c.o
+ .debug_abbrev  0x0000000000000432      0x163 CMakeFiles/example.dir/Device/LCD/HT1621.c.o
+ .debug_abbrev  0x0000000000000595      0x17d CMakeFiles/example.dir/Device/LCD/I2C.c.o
+ .debug_abbrev  0x0000000000000712      0x18e CMakeFiles/example.dir/Device/LCD/LCD_128.c.o
+ .debug_abbrev  0x00000000000008a0      0x165 CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o
+ .debug_abbrev  0x0000000000000a05      0x122 CMakeFiles/example.dir/Device/SD/SD_HardWare.c.o
+ .debug_abbrev  0x0000000000000b27      0x1c9 CMakeFiles/example.dir/Device/SD/SD_SPI.c.o
+ .debug_abbrev  0x0000000000000cf0       0xc9 CMakeFiles/example.dir/Device/SD/SPI.c.o
+ .debug_abbrev  0x0000000000000db9       0x79 CMakeFiles/example.dir/Device/ScopeADC/ComparatorA.c.o
+ .debug_abbrev  0x0000000000000e32       0xc2 CMakeFiles/example.dir/Device/ScopeADC/Slope.c.o
+ .debug_abbrev  0x0000000000000ef4       0xb3 CMakeFiles/example.dir/Device/ScopeADC/Timer_A3.c.o
+ .debug_abbrev  0x0000000000000fa7       0xe1 CMakeFiles/example.dir/Device/Src/msp430_adc10.c.o
+ .debug_abbrev  0x0000000000001088      0x19d CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o
+ .debug_abbrev  0x0000000000001225      0x1b4 CMakeFiles/example.dir/MyApp/Player_APP.c.o
+ .debug_abbrev  0x00000000000013d9      0x1ad CMakeFiles/example.dir/MyApp/Record_APP.c.o
+ .debug_abbrev  0x0000000000001586      0x1a4 CMakeFiles/example.dir/MyApp/SM_APP.c.o
+ .debug_abbrev  0x000000000000172a       0xf1 CMakeFiles/example.dir/MyApp/TouchIN.c.o
+
+.debug_line     0x0000000000000000     0x7359
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x1d7 CMakeFiles/example.dir/Core/Src/DAC7311.c.o
+ .debug_line    0x00000000000001d7      0x73a CMakeFiles/example.dir/Core/Src/main.c.o
+ .debug_line    0x0000000000000911      0x23f CMakeFiles/example.dir/Core/Src/softFIFO.c.o
+ .debug_line    0x0000000000000b50      0x677 CMakeFiles/example.dir/Device/LCD/HT1621.c.o
+ .debug_line    0x00000000000011c7      0x568 CMakeFiles/example.dir/Device/LCD/I2C.c.o
+ .debug_line    0x000000000000172f     0x1581 CMakeFiles/example.dir/Device/LCD/LCD_128.c.o
+ .debug_line    0x0000000000002cb0      0x46d CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o
+ .debug_line    0x000000000000311d      0x273 CMakeFiles/example.dir/Device/SD/SD_HardWare.c.o
+ .debug_line    0x0000000000003390      0xb33 CMakeFiles/example.dir/Device/SD/SD_SPI.c.o
+ .debug_line    0x0000000000003ec3      0x489 CMakeFiles/example.dir/Device/SD/SPI.c.o
+ .debug_line    0x000000000000434c       0xf2 CMakeFiles/example.dir/Device/ScopeADC/ComparatorA.c.o
+ .debug_line    0x000000000000443e      0x1ed CMakeFiles/example.dir/Device/ScopeADC/Slope.c.o
+ .debug_line    0x000000000000462b      0x118 CMakeFiles/example.dir/Device/ScopeADC/Timer_A3.c.o
+ .debug_line    0x0000000000004743      0x276 CMakeFiles/example.dir/Device/Src/msp430_adc10.c.o
+ .debug_line    0x00000000000049b9      0xea0 CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o
+ .debug_line    0x0000000000005859      0x8f9 CMakeFiles/example.dir/MyApp/Player_APP.c.o
+ .debug_line    0x0000000000006152      0x40d CMakeFiles/example.dir/MyApp/Record_APP.c.o
+ .debug_line    0x000000000000655f      0xadc CMakeFiles/example.dir/MyApp/SM_APP.c.o
+ .debug_line    0x000000000000703b      0x31e CMakeFiles/example.dir/MyApp/TouchIN.c.o
+
+.debug_frame    0x0000000000000000      0xfc4
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x34 CMakeFiles/example.dir/Core/Src/DAC7311.c.o
+ .debug_frame   0x0000000000000034      0x1c0 CMakeFiles/example.dir/Core/Src/main.c.o
+ .debug_frame   0x00000000000001f4       0x44 CMakeFiles/example.dir/Core/Src/softFIFO.c.o
+ .debug_frame   0x0000000000000238       0xe8 CMakeFiles/example.dir/Device/LCD/HT1621.c.o
+ .debug_frame   0x0000000000000320      0x140 CMakeFiles/example.dir/Device/LCD/I2C.c.o
+ .debug_frame   0x0000000000000460      0x124 CMakeFiles/example.dir/Device/LCD/LCD_128.c.o
+ .debug_frame   0x0000000000000584      0x11c CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o
+ .debug_frame   0x00000000000006a0       0xf4 CMakeFiles/example.dir/Device/SD/SD_HardWare.c.o
+ .debug_frame   0x0000000000000794      0x168 CMakeFiles/example.dir/Device/SD/SD_SPI.c.o
+ .debug_frame   0x00000000000008fc       0x84 CMakeFiles/example.dir/Device/SD/SPI.c.o
+ .debug_frame   0x0000000000000980       0x24 CMakeFiles/example.dir/Device/ScopeADC/ComparatorA.c.o
+ .debug_frame   0x00000000000009a4       0x64 CMakeFiles/example.dir/Device/ScopeADC/Slope.c.o
+ .debug_frame   0x0000000000000a08       0x98 CMakeFiles/example.dir/Device/ScopeADC/Timer_A3.c.o
+ .debug_frame   0x0000000000000aa0       0x34 CMakeFiles/example.dir/Device/Src/msp430_adc10.c.o
+ .debug_frame   0x0000000000000ad4      0x148 CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o
+ .debug_frame   0x0000000000000c1c      0x1a0 CMakeFiles/example.dir/MyApp/Player_APP.c.o
+ .debug_frame   0x0000000000000dbc      0x114 CMakeFiles/example.dir/MyApp/Record_APP.c.o
+ .debug_frame   0x0000000000000ed0       0x80 CMakeFiles/example.dir/MyApp/SM_APP.c.o
+ .debug_frame   0x0000000000000f50       0x74 CMakeFiles/example.dir/MyApp/TouchIN.c.o
+
+.debug_str      0x0000000000000000     0x13ed
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x40e CMakeFiles/example.dir/Core/Src/DAC7311.c.o
+                                        0x41b (size before relaxing)
+ .debug_str     0x000000000000040e      0x5d5 CMakeFiles/example.dir/Core/Src/main.c.o
+                                        0xa16 (size before relaxing)
+ .debug_str     0x00000000000009e3       0x61 CMakeFiles/example.dir/Core/Src/softFIFO.c.o
+                                        0x449 (size before relaxing)
+ .debug_str     0x0000000000000a44       0xb4 CMakeFiles/example.dir/Device/LCD/HT1621.c.o
+                                        0x492 (size before relaxing)
+ .debug_str     0x0000000000000af8       0xab CMakeFiles/example.dir/Device/LCD/I2C.c.o
+                                        0x46e (size before relaxing)
+ .debug_str     0x0000000000000ba3       0xa3 CMakeFiles/example.dir/Device/LCD/LCD_128.c.o
+                                        0x4cb (size before relaxing)
+ .debug_str     0x0000000000000c46       0x9d CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o
+                                        0x4c3 (size before relaxing)
+ .debug_str     0x0000000000000ce3       0xe4 CMakeFiles/example.dir/Device/SD/SD_HardWare.c.o
+                                        0x4c5 (size before relaxing)
+ .debug_str     0x0000000000000dc7       0x80 CMakeFiles/example.dir/Device/SD/SD_SPI.c.o
+                                        0x4d6 (size before relaxing)
+ .debug_str     0x0000000000000e47       0x3a CMakeFiles/example.dir/Device/SD/SPI.c.o
+                                        0x453 (size before relaxing)
+ .debug_str     0x0000000000000e81       0x5e CMakeFiles/example.dir/Device/ScopeADC/ComparatorA.c.o
+                                        0x417 (size before relaxing)
+ .debug_str     0x0000000000000edf       0xca CMakeFiles/example.dir/Device/ScopeADC/Slope.c.o
+                                        0x499 (size before relaxing)
+ .debug_str     0x0000000000000fa9       0x58 CMakeFiles/example.dir/Device/ScopeADC/Timer_A3.c.o
+                                        0x44f (size before relaxing)
+ .debug_str     0x0000000000001001       0x82 CMakeFiles/example.dir/Device/Src/msp430_adc10.c.o
+                                        0x4b2 (size before relaxing)
+ .debug_str     0x0000000000001083       0xfb CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o
+                                        0x4d2 (size before relaxing)
+ .debug_str     0x000000000000117e       0x7f CMakeFiles/example.dir/MyApp/Player_APP.c.o
+                                        0x57a (size before relaxing)
+ .debug_str     0x00000000000011fd       0xcb CMakeFiles/example.dir/MyApp/Record_APP.c.o
+                                        0x612 (size before relaxing)
+ .debug_str     0x00000000000012c8       0xa7 CMakeFiles/example.dir/MyApp/SM_APP.c.o
+                                        0x5b6 (size before relaxing)
+ .debug_str     0x000000000000136f       0x7e CMakeFiles/example.dir/MyApp/TouchIN.c.o
+                                        0x451 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x16a5
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x4b CMakeFiles/example.dir/Core/Src/DAC7311.c.o
+ .debug_loc     0x000000000000004b      0x19d CMakeFiles/example.dir/Core/Src/main.c.o
+ .debug_loc     0x00000000000001e8       0x64 CMakeFiles/example.dir/Core/Src/softFIFO.c.o
+ .debug_loc     0x000000000000024c      0x2a4 CMakeFiles/example.dir/Device/LCD/HT1621.c.o
+ .debug_loc     0x00000000000004f0      0x18b CMakeFiles/example.dir/Device/LCD/I2C.c.o
+ .debug_loc     0x000000000000067b      0x218 CMakeFiles/example.dir/Device/LCD/LCD_128.c.o
+ .debug_loc     0x0000000000000893      0x160 CMakeFiles/example.dir/Device/LCD/TCA6416A.c.o
+ .debug_loc     0x00000000000009f3       0xd7 CMakeFiles/example.dir/Device/SD/SD_HardWare.c.o
+ .debug_loc     0x0000000000000aca      0x42d CMakeFiles/example.dir/Device/SD/SD_SPI.c.o
+ .debug_loc     0x0000000000000ef7       0xbe CMakeFiles/example.dir/Device/SD/SPI.c.o
+ .debug_loc     0x0000000000000fb5       0x1e CMakeFiles/example.dir/Device/Src/msp430_adc10.c.o
+ .debug_loc     0x0000000000000fd3      0x50b CMakeFiles/example.dir/Device/Src/msp430_timer_a.c.o
+ .debug_loc     0x00000000000014de       0x55 CMakeFiles/example.dir/MyApp/Player_APP.c.o
+ .debug_loc     0x0000000000001533      0x172 CMakeFiles/example.dir/MyApp/SM_APP.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x30
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x30 CMakeFiles/example.dir/MyApp/SM_APP.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+/DISCARD/
+ *(.note.GNU-stack)
+                0x0000000000000000                PROVIDE (IE1 = 0x0)
+                [!provide]                        PROVIDE (IFG1 = 0x2)
+                [!provide]                        PROVIDE (IE2 = 0x1)
+                0x0000000000000003                PROVIDE (IFG2 = 0x3)
+                0x0000000000000048                PROVIDE (ADC10DTC0 = 0x48)
+                0x0000000000000049                PROVIDE (ADC10DTC1 = 0x49)
+                0x000000000000004a                PROVIDE (ADC10AE0 = 0x4a)
+                0x00000000000001b0                PROVIDE (ADC10CTL0 = 0x1b0)
+                0x00000000000001b2                PROVIDE (ADC10CTL1 = 0x1b2)
+                [!provide]                        PROVIDE (ADC10MEM = 0x1b4)
+                0x00000000000001bc                PROVIDE (ADC10SA = 0x1bc)
+                0x0000000000000056                PROVIDE (DCOCTL = 0x56)
+                0x0000000000000057                PROVIDE (BCSCTL1 = 0x57)
+                0x0000000000000058                PROVIDE (BCSCTL2 = 0x58)
+                0x0000000000000053                PROVIDE (BCSCTL3 = 0x53)
+                0x0000000000000059                PROVIDE (CACTL1 = 0x59)
+                0x000000000000005a                PROVIDE (CACTL2 = 0x5a)
+                0x000000000000005b                PROVIDE (CAPD = 0x5b)
+                [!provide]                        PROVIDE (FCTL1 = 0x128)
+                [!provide]                        PROVIDE (FCTL2 = 0x12a)
+                [!provide]                        PROVIDE (FCTL3 = 0x12c)
+                0x0000000000000020                PROVIDE (P1IN = 0x20)
+                0x0000000000000021                PROVIDE (P1OUT = 0x21)
+                0x0000000000000022                PROVIDE (P1DIR = 0x22)
+                0x0000000000000023                PROVIDE (P1IFG = 0x23)
+                0x0000000000000024                PROVIDE (P1IES = 0x24)
+                0x0000000000000025                PROVIDE (P1IE = 0x25)
+                0x0000000000000026                PROVIDE (P1SEL = 0x26)
+                0x0000000000000041                PROVIDE (P1SEL2 = 0x41)
+                0x0000000000000027                PROVIDE (P1REN = 0x27)
+                [!provide]                        PROVIDE (P2IN = 0x28)
+                0x0000000000000029                PROVIDE (P2OUT = 0x29)
+                0x000000000000002a                PROVIDE (P2DIR = 0x2a)
+                [!provide]                        PROVIDE (P2IFG = 0x2b)
+                [!provide]                        PROVIDE (P2IES = 0x2c)
+                [!provide]                        PROVIDE (P2IE = 0x2d)
+                0x000000000000002e                PROVIDE (P2SEL = 0x2e)
+                0x0000000000000042                PROVIDE (P2SEL2 = 0x42)
+                [!provide]                        PROVIDE (P2REN = 0x2f)
+                [!provide]                        PROVIDE (P3IN = 0x18)
+                [!provide]                        PROVIDE (P3OUT = 0x19)
+                0x000000000000001a                PROVIDE (P3DIR = 0x1a)
+                0x000000000000001b                PROVIDE (P3SEL = 0x1b)
+                [!provide]                        PROVIDE (P3SEL2 = 0x43)
+                [!provide]                        PROVIDE (P3REN = 0x10)
+                0x000000000000012e                PROVIDE (TA0IV = 0x12e)
+                0x0000000000000160                PROVIDE (TA0CTL = 0x160)
+                0x0000000000000162                PROVIDE (TA0CCTL0 = 0x162)
+                0x0000000000000164                PROVIDE (TA0CCTL1 = 0x164)
+                0x0000000000000166                PROVIDE (TA0CCTL2 = 0x166)
+                0x0000000000000170                PROVIDE (TA0R = 0x170)
+                0x0000000000000172                PROVIDE (TA0CCR0 = 0x172)
+                0x0000000000000174                PROVIDE (TA0CCR1 = 0x174)
+                0x0000000000000176                PROVIDE (TA0CCR2 = 0x176)
+                [!provide]                        PROVIDE (TA1IV = 0x11e)
+                0x0000000000000180                PROVIDE (TA1CTL = 0x180)
+                0x0000000000000182                PROVIDE (TA1CCTL0 = 0x182)
+                0x0000000000000184                PROVIDE (TA1CCTL1 = 0x184)
+                0x0000000000000186                PROVIDE (TA1CCTL2 = 0x186)
+                [!provide]                        PROVIDE (TA1R = 0x190)
+                0x0000000000000192                PROVIDE (TA1CCR0 = 0x192)
+                0x0000000000000194                PROVIDE (TA1CCR1 = 0x194)
+                0x0000000000000196                PROVIDE (TA1CCR2 = 0x196)
+                0x0000000000000060                PROVIDE (UCA0CTL0 = 0x60)
+                0x0000000000000061                PROVIDE (UCA0CTL1 = 0x61)
+                0x0000000000000062                PROVIDE (UCA0BR0 = 0x62)
+                0x0000000000000063                PROVIDE (UCA0BR1 = 0x63)
+                0x0000000000000064                PROVIDE (UCA0MCTL = 0x64)
+                0x0000000000000065                PROVIDE (UCA0STAT = 0x65)
+                0x0000000000000066                PROVIDE (UCA0RXBUF = 0x66)
+                0x0000000000000067                PROVIDE (UCA0TXBUF = 0x67)
+                [!provide]                        PROVIDE (UCA0ABCTL = 0x5d)
+                [!provide]                        PROVIDE (UCA0IRTCTL = 0x5e)
+                [!provide]                        PROVIDE (UCA0IRRCTL = 0x5f)
+                [!provide]                        PROVIDE (UCB0CTL0 = 0x68)
+                [!provide]                        PROVIDE (UCB0CTL1 = 0x69)
+                [!provide]                        PROVIDE (UCB0BR0 = 0x6a)
+                [!provide]                        PROVIDE (UCB0BR1 = 0x6b)
+                [!provide]                        PROVIDE (UCB0I2CIE = 0x6c)
+                [!provide]                        PROVIDE (UCB0STAT = 0x6d)
+                [!provide]                        PROVIDE (UCB0RXBUF = 0x6e)
+                [!provide]                        PROVIDE (UCB0TXBUF = 0x6f)
+                [!provide]                        PROVIDE (UCB0I2COA = 0x118)
+                [!provide]                        PROVIDE (UCB0I2CSA = 0x11a)
+                0x0000000000000120                PROVIDE (WDTCTL = 0x120)
+                [!provide]                        PROVIDE (CALDCO_16MHZ = 0x10f8)
+                [!provide]                        PROVIDE (CALBC1_16MHZ = 0x10f9)
+                0x00000000000010fa                PROVIDE (CALDCO_12MHZ = 0x10fa)
+                0x00000000000010fb                PROVIDE (CALBC1_12MHZ = 0x10fb)
+                [!provide]                        PROVIDE (CALDCO_8MHZ = 0x10fc)
+                [!provide]                        PROVIDE (CALBC1_8MHZ = 0x10fd)
+                0x00000000000010fe                PROVIDE (CALDCO_1MHZ = 0x10fe)
+                0x00000000000010ff                PROVIDE (CALBC1_1MHZ = 0x10ff)
+                [!provide]                        PROVIDE (TLV_CHECKSUM = 0x10c0)
+                [!provide]                        PROVIDE (TLV_DCO_30_TAG = 0x10f6)
+                [!provide]                        PROVIDE (TLV_DCO_30_LEN = 0x10f7)
+                [!provide]                        PROVIDE (TLV_ADC10_1_TAG = 0x10da)
+                [!provide]                        PROVIDE (TLV_ADC10_1_LEN = 0x10db)
+LOAD /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a
+LOAD /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/crtend_no_eh.o
+LOAD /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/430/libgcc.a
+OUTPUT(example elf32-msp430)

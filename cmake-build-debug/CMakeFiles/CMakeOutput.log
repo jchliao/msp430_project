@@ -1,0 +1,197 @@
+The system is: Darwin - 21.1.0 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /Users/liaojincheng/ti/msp430-gcc/bin/msp430-elf-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/Users/liaojincheng/msp430project/example/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.out"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /Users/liaojincheng/msp430project/example/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_a0bb5/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_a0bb5.dir/build.make CMakeFiles/cmTC_a0bb5.dir/build
+Building C object CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o
+/Users/liaojincheng/ti/msp430-gcc/bin/msp430-elf-gcc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk   -v -Wl,-v -o CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o -c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCCompilerABI.c
+Using built-in specs.
+COLLECT_GCC=/Users/liaojincheng/ti/msp430-gcc/bin/msp430-elf-gcc
+Target: msp430-elf
+Configured with: ../../gcc/configure --target=msp430-elf --enable-languages=c,c++ --disable-nls --enable-initfini-array --enable-target-optspace --enable-newlib-nano-formatted-io --with-pkgversion='Mitto Systems Limited - msp430-gcc 9.3.1.11'
+Thread model: single
+gcc version 9.3.1 (Mitto Systems Limited - msp430-gcc 9.3.1.11) 
+COLLECT_GCC_OPTIONS='-isysroot' '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk' '-v' '-o' 'CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o' '-c'
+ /Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/cc1 -quiet -v -iprefix /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/ -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -auxbase-strip CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o -version -o /var/folders/nd/bb9dx8h16770ft2qvmcq0r300000gn/T//ccK6MHg2.s
+GNU C17 (Mitto Systems Limited - msp430-gcc 9.3.1.11) version 9.3.1 (msp430-elf)
+	compiled by GNU C version 4.2.1 Compatible Apple LLVM 11.0.3 (clang-1103.0.32.59), GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/sys-include"
+ignoring duplicate directory "/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/../../lib/gcc/msp430-elf/9.3.1/include"
+ignoring duplicate directory "/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/../../lib/gcc/msp430-elf/9.3.1/include-fixed"
+ignoring nonexistent directory "/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/../../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/sys-include"
+ignoring duplicate directory "/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/../../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Users/liaojincheng/ti/msp430-gcc/include
+ /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include
+ /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include-fixed
+ /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/include
+End of search list.
+GNU C17 (Mitto Systems Limited - msp430-gcc 9.3.1.11) version 9.3.1 (msp430-elf)
+	compiled by GNU C version 4.2.1 Compatible Apple LLVM 11.0.3 (clang-1103.0.32.59), GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 423dcf60864bff94c13c4735bcdcee2b
+COLLECT_GCC_OPTIONS='-isysroot' '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk' '-v' '-o' 'CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o' '-c'
+ /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/bin/as --traditional-format -mP -o CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o /var/folders/nd/bb9dx8h16770ft2qvmcq0r300000gn/T//ccK6MHg2.s
+COMPILER_PATH=/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/:/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/:/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/bin/
+LIBRARY_PATH=/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/:/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/:/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/
+COLLECT_GCC_OPTIONS='-isysroot' '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk' '-v' '-o' 'CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o' '-c'
+Linking C executable cmTC_a0bb5
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a0bb5.dir/link.txt --verbose=1
+/Users/liaojincheng/ti/msp430-gcc/bin/msp430-elf-gcc  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/ruby/lib -v -Wl,-v CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o -o cmTC_a0bb5 
+Using built-in specs.
+COLLECT_GCC=/Users/liaojincheng/ti/msp430-gcc/bin/msp430-elf-gcc
+COLLECT_LTO_WRAPPER=/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/lto-wrapper
+Target: msp430-elf
+Configured with: ../../gcc/configure --target=msp430-elf --enable-languages=c,c++ --disable-nls --enable-initfini-array --enable-target-optspace --enable-newlib-nano-formatted-io --with-pkgversion='Mitto Systems Limited - msp430-gcc 9.3.1.11'
+Thread model: single
+gcc version 9.3.1 (Mitto Systems Limited - msp430-gcc 9.3.1.11) 
+COMPILER_PATH=/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/:/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/:/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/bin/
+LIBRARY_PATH=/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/:/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/:/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/
+COLLECT_GCC_OPTIONS='-isysroot' '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk' '-L/usr/local/opt/ruby/lib' '-v' '-o' 'cmTC_a0bb5'
+ /Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/collect2 -plugin /Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/liblto_plugin.so -plugin-opt=/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/lto-wrapper -plugin-opt=-fresolution=/var/folders/nd/bb9dx8h16770ft2qvmcq0r300000gn/T//ccrvu4Pn.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmul_none -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lcrt -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lgcc --gc-sections -L/Users/liaojincheng/ti/msp430-gcc/include -o cmTC_a0bb5 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/crt0.o /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/crtbegin_no_eh.o -L/usr/local/opt/ruby/lib -L/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1 -L/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc -L/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o -lgcc --start-group -lmul_none -lc -lgcc -lcrt -lnosys --end-group -lgcc /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/crtend_no_eh.o -lgcc
+collect2 version 9.3.1
+/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/bin/ld -plugin /Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/liblto_plugin.so -plugin-opt=/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/lto-wrapper -plugin-opt=-fresolution=/var/folders/nd/bb9dx8h16770ft2qvmcq0r300000gn/T//ccrvu4Pn.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmul_none -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lcrt -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lgcc --gc-sections -L/Users/liaojincheng/ti/msp430-gcc/include -o cmTC_a0bb5 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/crt0.o /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/crtbegin_no_eh.o -L/usr/local/opt/ruby/lib -L/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1 -L/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc -L/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o -lgcc --start-group -lmul_none -lc -lgcc -lcrt -lnosys --end-group -lgcc /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/crtend_no_eh.o -lgcc
+GNU ld (Mitto Systems Limited - msp430-gcc 9.3.1.11) 2.34/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/bin/ld: warning: cannot find entry symbol arch_paths_first; defaulting to 0000000000008000
+
+COLLECT_GCC_OPTIONS='-isysroot' '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk' '-L/usr/local/opt/ruby/lib' '-v' '-o' 'cmTC_a0bb5'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/Users/liaojincheng/ti/msp430-gcc/include]
+    add: [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include]
+    add: [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include-fixed]
+    add: [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/include]
+  end of search list found
+  collapse include dir [/Users/liaojincheng/ti/msp430-gcc/include] ==> [/Users/liaojincheng/ti/msp430-gcc/include]
+  collapse include dir [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include] ==> [/Users/liaojincheng/ti/msp430-gcc/lib/gcc/msp430-elf/9.3.1/include]
+  collapse include dir [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include-fixed] ==> [/Users/liaojincheng/ti/msp430-gcc/lib/gcc/msp430-elf/9.3.1/include-fixed]
+  collapse include dir [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/include] ==> [/Users/liaojincheng/ti/msp430-gcc/msp430-elf/include]
+  implicit include dirs: [/Users/liaojincheng/ti/msp430-gcc/include;/Users/liaojincheng/ti/msp430-gcc/lib/gcc/msp430-elf/9.3.1/include;/Users/liaojincheng/ti/msp430-gcc/lib/gcc/msp430-elf/9.3.1/include-fixed;/Users/liaojincheng/ti/msp430-gcc/msp430-elf/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(msp430-elf-ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/liaojincheng/msp430project/example/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/make -f Makefile cmTC_a0bb5/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_a0bb5.dir/build.make CMakeFiles/cmTC_a0bb5.dir/build]
+  ignore line: [Building C object CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/Users/liaojincheng/ti/msp430-gcc/bin/msp430-elf-gcc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk   -v -Wl -v -o CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o -c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCCompilerABI.c]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/Users/liaojincheng/ti/msp430-gcc/bin/msp430-elf-gcc]
+  ignore line: [Target: msp430-elf]
+  ignore line: [Configured with: ../../gcc/configure --target=msp430-elf --enable-languages=c c++ --disable-nls --enable-initfini-array --enable-target-optspace --enable-newlib-nano-formatted-io --with-pkgversion='Mitto Systems Limited - msp430-gcc 9.3.1.11']
+  ignore line: [Thread model: single]
+  ignore line: [gcc version 9.3.1 (Mitto Systems Limited - msp430-gcc 9.3.1.11) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-isysroot' '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk' '-v' '-o' 'CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o' '-c']
+  ignore line: [ /Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/cc1 -quiet -v -iprefix /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/ -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -auxbase-strip CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o -version -o /var/folders/nd/bb9dx8h16770ft2qvmcq0r300000gn/T//ccK6MHg2.s]
+  ignore line: [GNU C17 (Mitto Systems Limited - msp430-gcc 9.3.1.11) version 9.3.1 (msp430-elf)]
+  ignore line: [	compiled by GNU C version 4.2.1 Compatible Apple LLVM 11.0.3 (clang-1103.0.32.59)  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/sys-include"]
+  ignore line: [ignoring duplicate directory "/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/../../lib/gcc/msp430-elf/9.3.1/include"]
+  ignore line: [ignoring duplicate directory "/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/../../lib/gcc/msp430-elf/9.3.1/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/../../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/sys-include"]
+  ignore line: [ignoring duplicate directory "/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/../../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /Users/liaojincheng/ti/msp430-gcc/include]
+  ignore line: [ /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include]
+  ignore line: [ /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include-fixed]
+  ignore line: [ /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C17 (Mitto Systems Limited - msp430-gcc 9.3.1.11) version 9.3.1 (msp430-elf)]
+  ignore line: [	compiled by GNU C version 4.2.1 Compatible Apple LLVM 11.0.3 (clang-1103.0.32.59)  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 423dcf60864bff94c13c4735bcdcee2b]
+  ignore line: [COLLECT_GCC_OPTIONS='-isysroot' '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk' '-v' '-o' 'CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o' '-c']
+  ignore line: [ /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/bin/as --traditional-format -mP -o CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o /var/folders/nd/bb9dx8h16770ft2qvmcq0r300000gn/T//ccK6MHg2.s]
+  ignore line: [COMPILER_PATH=/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/:/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/:/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/bin/]
+  ignore line: [LIBRARY_PATH=/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/:/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/:/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-isysroot' '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk' '-v' '-o' 'CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o' '-c']
+  ignore line: [Linking C executable cmTC_a0bb5]
+  ignore line: [/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a0bb5.dir/link.txt --verbose=1]
+  ignore line: [/Users/liaojincheng/ti/msp430-gcc/bin/msp430-elf-gcc  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -Wl -search_paths_first -Wl -headerpad_max_install_names -L/usr/local/opt/ruby/lib -v -Wl -v CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o -o cmTC_a0bb5 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/Users/liaojincheng/ti/msp430-gcc/bin/msp430-elf-gcc]
+  ignore line: [COLLECT_LTO_WRAPPER=/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/lto-wrapper]
+  ignore line: [Target: msp430-elf]
+  ignore line: [Configured with: ../../gcc/configure --target=msp430-elf --enable-languages=c c++ --disable-nls --enable-initfini-array --enable-target-optspace --enable-newlib-nano-formatted-io --with-pkgversion='Mitto Systems Limited - msp430-gcc 9.3.1.11']
+  ignore line: [Thread model: single]
+  ignore line: [gcc version 9.3.1 (Mitto Systems Limited - msp430-gcc 9.3.1.11) ]
+  ignore line: [COMPILER_PATH=/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/:/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/:/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/bin/]
+  ignore line: [LIBRARY_PATH=/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/:/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/:/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-isysroot' '/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk' '-L/usr/local/opt/ruby/lib' '-v' '-o' 'cmTC_a0bb5']
+  link line: [ /Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/collect2 -plugin /Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/liblto_plugin.so -plugin-opt=/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/lto-wrapper -plugin-opt=-fresolution=/var/folders/nd/bb9dx8h16770ft2qvmcq0r300000gn/T//ccrvu4Pn.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmul_none -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lcrt -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lgcc --gc-sections -L/Users/liaojincheng/ti/msp430-gcc/include -o cmTC_a0bb5 /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/crt0.o /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/crtbegin_no_eh.o -L/usr/local/opt/ruby/lib -L/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1 -L/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc -L/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o -lgcc --start-group -lmul_none -lc -lgcc -lcrt -lnosys --end-group -lgcc /Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/crtend_no_eh.o -lgcc]
+    arg [/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/Users/liaojincheng/ti/msp430-gcc/bin/../libexec/gcc/msp430-elf/9.3.1/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/var/folders/nd/bb9dx8h16770ft2qvmcq0r300000gn/T//ccrvu4Pn.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lmul_none] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lcrt] ==> ignore
+    arg [-plugin-opt=-pass-through=-lnosys] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--gc-sections] ==> ignore
+    arg [-L/Users/liaojincheng/ti/msp430-gcc/include] ==> dir [/Users/liaojincheng/ti/msp430-gcc/include]
+    arg [-o] ==> ignore
+    arg [cmTC_a0bb5] ==> ignore
+    arg [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/crt0.o] ==> obj [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/crt0.o]
+    arg [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/crtbegin_no_eh.o] ==> obj [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/crtbegin_no_eh.o]
+    arg [-L/usr/local/opt/ruby/lib] ==> dir [/usr/local/opt/ruby/lib]
+    arg [-L/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1] ==> dir [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1]
+    arg [-L/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc] ==> dir [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc]
+    arg [-L/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib] ==> dir [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib]
+    arg [-search_paths_first] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-v] ==> ignore
+    arg [CMakeFiles/cmTC_a0bb5.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--start-group] ==> ignore
+    arg [-lmul_none] ==> lib [mul_none]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lcrt] ==> lib [crt]
+    arg [-lnosys] ==> lib [nosys]
+    arg [--end-group] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/crtend_no_eh.o] ==> obj [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/crtend_no_eh.o]
+    arg [-lgcc] ==> lib [gcc]
+  collapse obj [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib/crt0.o] ==> [/Users/liaojincheng/ti/msp430-gcc/msp430-elf/lib/crt0.o]
+  collapse obj [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/crtbegin_no_eh.o] ==> [/Users/liaojincheng/ti/msp430-gcc/lib/gcc/msp430-elf/9.3.1/crtbegin_no_eh.o]
+  collapse obj [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/crtend_no_eh.o] ==> [/Users/liaojincheng/ti/msp430-gcc/lib/gcc/msp430-elf/9.3.1/crtend_no_eh.o]
+  collapse library dir [/Users/liaojincheng/ti/msp430-gcc/include] ==> [/Users/liaojincheng/ti/msp430-gcc/include]
+  collapse library dir [/usr/local/opt/ruby/lib] ==> [/usr/local/opt/ruby/lib]
+  collapse library dir [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1] ==> [/Users/liaojincheng/ti/msp430-gcc/lib/gcc/msp430-elf/9.3.1]
+  collapse library dir [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc] ==> [/Users/liaojincheng/ti/msp430-gcc/lib/gcc]
+  collapse library dir [/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/lib] ==> [/Users/liaojincheng/ti/msp430-gcc/msp430-elf/lib]
+  implicit libs: [gcc;mul_none;c;gcc;crt;nosys;gcc;gcc]
+  implicit objs: [/Users/liaojincheng/ti/msp430-gcc/msp430-elf/lib/crt0.o;/Users/liaojincheng/ti/msp430-gcc/lib/gcc/msp430-elf/9.3.1/crtbegin_no_eh.o;/Users/liaojincheng/ti/msp430-gcc/lib/gcc/msp430-elf/9.3.1/crtend_no_eh.o]
+  implicit dirs: [/Users/liaojincheng/ti/msp430-gcc/include;/usr/local/opt/ruby/lib;/Users/liaojincheng/ti/msp430-gcc/lib/gcc/msp430-elf/9.3.1;/Users/liaojincheng/ti/msp430-gcc/lib/gcc;/Users/liaojincheng/ti/msp430-gcc/msp430-elf/lib]
+  implicit fwks: []
+
+

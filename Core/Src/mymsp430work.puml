@@ -1,0 +1,22 @@
+@startuml
+scale 400 width
+hide empty description
+[*] -> HELLO : 上电/初始化&显示HELLO界面
+HELLO --> HELLO : Touch1按下/减音量\nTouch2按下/加音量
+HELLO --> 选曲模式 : UP_KEY按下/\n初始化选曲界面
+
+选曲模式 --> 选曲模式 : UP_KEY按下/上一曲\nDOWN_KEY按下/下一曲
+选曲模式 --> 播放模式 : OK_KEY按下/\n初始化播放界面&开始播放
+选曲模式 --> HELLO : BACK_KEY按下/\n显示HELLO界面
+
+播放模式 : 读取SD卡&DAC转换
+播放模式 : 显示播放进度
+播放模式 --> 播放暂停 : OK_KEY按下/\n暂停播放
+播放模式 --> 选曲模式 : BACK_KEY按下/\n初始化选曲界面
+播放模式 --> 播放模式 : UP_KEY按下/上一曲\nDOWN_KEY按下/下一曲\nOK_KEY长按/切换播放模式
+
+播放暂停 --> 播放模式 : OK_KEY按下/\开始播放
+播放暂停 --> 播放暂停 : UP_KEY按下/上一曲\nDOWN_KEY按下/下一曲
+播放暂停 --> 选曲模式 : BACK_KEY按下/\n初始化选曲界面
+
+@enduml

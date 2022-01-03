@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/Users/liaojincheng/ti/msp430-gcc/bin/msp430-elf-gcc -DCMAKE_CXX_COMPILER=/Users/liaojincheng/ti/msp430-gcc/bin/msp430-elf-g++ -G "CodeBlocks - Unix Makefiles" /Users/liaojincheng/msp430project/example
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/liaojincheng/msp430project/example/cmake-build-debug

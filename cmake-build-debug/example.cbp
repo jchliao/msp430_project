@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="example"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/liaojincheng/msp430project/example/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/liaojincheng/msp430project/example/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/liaojincheng/msp430project/example/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example">
+				<Option output="/Users/liaojincheng/msp430project/example/cmake-build-debug/example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liaojincheng/msp430project/example/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/liaojincheng/msp430project/example/Core/Inc"/>
+					<Add directory="/Users/liaojincheng/msp430project/example/Device/Inc"/>
+					<Add directory="/Users/liaojincheng/msp430project/example/Device/SD"/>
+					<Add directory="/Users/liaojincheng/msp430project/example/Device/LCD"/>
+					<Add directory="/Users/liaojincheng/msp430project/example/Device/ScopeADC"/>
+					<Add directory="/Users/liaojincheng/msp430project/example/MyApp"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/include"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include-fixed"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 example"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example/fast">
+				<Option output="/Users/liaojincheng/msp430project/example/cmake-build-debug/example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liaojincheng/msp430project/example/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/liaojincheng/msp430project/example/Core/Inc"/>
+					<Add directory="/Users/liaojincheng/msp430project/example/Device/Inc"/>
+					<Add directory="/Users/liaojincheng/msp430project/example/Device/SD"/>
+					<Add directory="/Users/liaojincheng/msp430project/example/Device/LCD"/>
+					<Add directory="/Users/liaojincheng/msp430project/example/Device/ScopeADC"/>
+					<Add directory="/Users/liaojincheng/msp430project/example/MyApp"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/include"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include-fixed"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 example/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Inc/DAC7311.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Inc/bsp_Clock.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Inc/bsp_GPIO.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Inc/bsp_Key.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Inc/bsp_pwm.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Inc/msp430_it.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Inc/softFIFO.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Inc/sys.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Src/DAC7311.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Src/bsp_Clock.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Src/bsp_GPIO.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Src/bsp_Key.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Src/bsp_pwm.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Src/main.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Src/msp430_it.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Core/Src/softFIFO.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/Inc/msp430_.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/Inc/msp430_adc10.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/Inc/msp430_gpio.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/Inc/msp430_timer_a.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/LCD/.DS_Store">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/LCD/HT1621.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/LCD/HT1621.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/LCD/I2C.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/LCD/I2C.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/LCD/LCD_128.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/LCD/LCD_128.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/LCD/TCA6416A.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/LCD/TCA6416A.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/SD/.DS_Store">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/SD/SD_HardWare.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/SD/SD_HardWare.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/SD/SD_SPI.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/SD/SD_SPI.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/SD/SPI.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/SD/SPI.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/ScopeADC/ComparatorA.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/ScopeADC/ComparatorA.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/ScopeADC/Slope.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/ScopeADC/Slope.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/ScopeADC/Timer_A3.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/ScopeADC/Timer_A3.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/Src/msp430_adc10.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/Src/msp430_gpio.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/Device/Src/msp430_timer_a.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/MyApp/Player_APP.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/MyApp/Player_APP.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/MyApp/Record_APP.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/MyApp/Record_APP.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/MyApp/SM_APP.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/MyApp/SM_APP.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/MyApp/TouchIN.c">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/MyApp/TouchIN.h">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/example/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

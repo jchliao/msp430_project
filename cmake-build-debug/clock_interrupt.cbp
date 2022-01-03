@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="clock_interrupt"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clock_interrupt">
+				<Option output="/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/clock_interrupt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/liaojincheng/msp430project/clock_interrupt/Core/Inc"/>
+					<Add directory="/Users/liaojincheng/msp430project/clock_interrupt/Device/Inc"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/include"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include-fixed"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clock_interrupt"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clock_interrupt/fast">
+				<Option output="/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/clock_interrupt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/liaojincheng/msp430project/clock_interrupt/Core/Inc"/>
+					<Add directory="/Users/liaojincheng/msp430project/clock_interrupt/Device/Inc"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/include"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/include-fixed"/>
+					<Add directory="/Users/liaojincheng/ti/msp430-gcc/bin/../lib/gcc/msp430-elf/9.3.1/../../../../msp430-elf/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clock_interrupt/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/liaojincheng/msp430project/clock_interrupt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/Core/Inc/bsp_Clock.h">
+			<Option target="clock_interrupt"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/Core/Inc/bsp_GPIO.h">
+			<Option target="clock_interrupt"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/Core/Inc/bsp_Key.h">
+			<Option target="clock_interrupt"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/Core/Inc/msp430_it.h">
+			<Option target="clock_interrupt"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/Core/Inc/sys.h">
+			<Option target="clock_interrupt"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/Core/Src/bsp_Clock.c">
+			<Option target="clock_interrupt"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/Core/Src/bsp_GPIO.c">
+			<Option target="clock_interrupt"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/Core/Src/bsp_Key.c">
+			<Option target="clock_interrupt"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/Core/Src/main.c">
+			<Option target="clock_interrupt"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/Core/Src/msp430_it.c">
+			<Option target="clock_interrupt"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/Device/Inc/msp430_.h">
+			<Option target="clock_interrupt"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/Device/Inc/msp430_gpio.h">
+			<Option target="clock_interrupt"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/Device/Src/msp430_gpio.c">
+			<Option target="clock_interrupt"/>
+		</Unit>
+		<Unit filename="/Users/liaojincheng/msp430project/clock_interrupt/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
